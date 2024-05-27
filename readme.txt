@@ -22,6 +22,9 @@ bhpan ls home -h
 
 # upload
 bhpan upload [本地文件/文件夹] [远程文件夹]
+# example:
+bhpan upload [本地文件] 马祥跃_BY2203046/
+bhpan upload [本地文件夹] -r 马祥跃_BY2203046/
 
 
 
